@@ -1,6 +1,5 @@
-# Gymnatic Mobile App
-
-#Installation
+# Gymnatic
+Upd
 ```s
 ## Install dependancies:
 npm install
