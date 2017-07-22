@@ -1,0 +1,20 @@
+export default {
+  black: '#000000',
+  darkgrey: '#343740',
+  grey: '#6F6F7F',
+  bordergrey: '#D3D4D9',
+  lightgrey: '#F0F1F5',
+  offwhite: '#fffcf9',
+  white: '#ffffff',
+  darknavy: '#234368',
+  navy: '#26547c',
+  bordernavy: '#1A324F',
+  pink: '#f25788',
+  orange: '#ffd166',
+  blue: '#28BAEF',
+  electricblue: '#00d2ff',
+  green: '#06d6a0',
+  green_overlay: 'rgba(6, 214, 160, 0.83)',
+  blue_overlay: 'rgba(21, 123, 163, 0.83)',
+  grey_overlay: 'rgba(0, 0, 0, 0.33)'
+}
